@@ -30,3 +30,4 @@
 * Krema sıkma torbasına doldurup pişirme kağıdı serilmiş fırın tepsisine küçük çiçekler şeklinde sıkın.
 * Bake it in oven heated to 175° for 15-20 minutes.
 
+![ÇİÇEK KURABİYE](https://cdn.yemek.com/mnresize/940/940/uploads/2020/03/cicek-kurabiye-tarifi.jpg)
