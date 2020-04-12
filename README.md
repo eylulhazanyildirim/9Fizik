@@ -31,3 +31,11 @@
 * Bake it in oven heated to 175° for 15-20 minutes.
 
 ![ÇİÇEK KURABİYE](https://cdn.yemek.com/mnresize/940/940/uploads/2020/03/cicek-kurabiye-tarifi.jpg)
+
+Kişi      | Vücut Kitle Endeksi
+---------------|--------------------
+Kız Kardeşim   | 13.4
+Erkek Kardeşim | 21.9
+Abim           | 16
+Annem          | 24
+Babam          | 30
