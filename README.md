@@ -32,6 +32,12 @@
 
 ![ÇİÇEK KURABİYE](https://cdn.yemek.com/mnresize/940/940/uploads/2020/03/cicek-kurabiye-tarifi.jpg)
 
+Serving Size       |  Calories
+-------------------|----------
+1 medium cookie    |  90
+
+## VÜCUT KİTLE ENDEKSİ
+
 Kişi      | Vücut Kitle Endeksi
 ---------------|--------------------
 Kız Kardeşim   | 13.4
